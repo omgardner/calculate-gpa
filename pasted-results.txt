@@ -1,0 +1,5 @@
+Year	Study Period	Unit	Unit Title	Mark	Grade	Description	Credit Points
+2016	Session 1	COMP115	Introduction to Computer Programming	94	HD	High Distinction	3.000
+2016	Session 1	PICT103	Introduction to Criminology	94	HD	High Distinction	3.000
+2016	Session 1	STAT170	Introductory Statistics	94	HD	High Distinction	3.000
+2016	Session 1	STAT175	Gambling, Sport and Medicine	94	HD	High Distinction	3.000
