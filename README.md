@@ -10,9 +10,10 @@
 
 5. Paste into pasted-results.txt
 
-6. Run `python calculate-gpa.py 4 -v`
+Run `python calculate-gpa.py 4 -v`
+- for 4-scale GPA calculation verbose
+- Run `python calculate-gpa.py -h` for additional options
 
-   - for 4-scale GPA calculation verbose
-   - Run `python calculate-gpa.py -h` for additional options
+Currently supports 4 scale and 7 scale gpa calculation (replace 4 with 7)
 
    
